@@ -10,7 +10,7 @@ This course was again a refresher for me on some machine learning concepts, and 
 ---
 **Data Cleaning - kaggle**
 
-Click[here](https://www.kaggle.com/learn/data-cleaning) for the course website.
+Click [here](https://www.kaggle.com/learn/data-cleaning) for the course website.
 
 [Click here to view certificate.](https://www.kaggle.com/learn/certification/henryalferink/data-cleaning)
 
