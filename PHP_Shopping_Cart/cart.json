@@ -1,0 +1,12 @@
+{
+    "Sledgehammer": {
+        "price": 125.75,
+        "quantity": 1,
+        "total": 125.75
+    },
+    "Chisel": {
+        "price": 12.9,
+        "quantity": 3,
+        "total": 38.7
+    }
+}
