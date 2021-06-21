@@ -1,12 +1,12 @@
 {
     "Sledgehammer": {
         "price": 125.75,
-        "quantity": 1,
-        "total": 125.75
+        "quantity": 4,
+        "total": 503
     },
-    "Chisel": {
-        "price": 12.9,
-        "quantity": 3,
-        "total": 38.7
+    "Bandsaw": {
+        "price": 562.131,
+        "quantity": 1,
+        "total": 562.131
     }
 }
