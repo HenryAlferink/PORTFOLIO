@@ -6,6 +6,7 @@
 3. [**Data Science**](https://github.com/HenryAlferink/PORTFOLIO/tree/main/Data_Science). Some data science projects.
 4. [**Antarctica Network Science**](https://github.com/HenryAlferink/PORTFOLIO/tree/main/Antarctica_Network_Science). Summer research project.
 5. [**Online Courses**](https://github.com/HenryAlferink/PORTFOLIO/tree/main/Online_Courses). My files resulting from online courses I have done.
+6. 6. [**PHP Shopping Cart**](https://github.com/HenryAlferink/PORTFOLIO/tree/main/PHP_Shopping_Cart). A simple shopping cart website I created with PHP.
 
 ## Highlights
 ### [Interactive Introduction to Bayesian Inverse Problems](https://share.streamlit.io/henryalferink/portfolio/main/Honours_Project/Code/Streamlit_app/Ballistics_Problem_Streamlit.py)
