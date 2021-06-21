@@ -3,6 +3,10 @@
 // Author: Henry Alferink
 // Date: 21/06/2021
 
+// Credit: In creating this website, I found this video very useful, 
+// particularly regarding storing information in the json format:
+// https://www.youtube.com/watch?v=NxeNqHdJFxs
+
 /*
 Assumption on $products array:
     The name of each product is unique. Therefore it can
