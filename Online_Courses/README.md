@@ -1,6 +1,8 @@
 # Completed online courses
 ## 2021
 
+(Note: more may be added to this repo without updating this Readme.)
+
 **Intermediate Machine Learning - kaggle**
 
 This course was again a refresher for me on some machine learning concepts, and using Python for machine learning (see [course website](https://www.kaggle.com/learn/intermediate-machine-learning) for details). I also learnt a new concept: data leakage.
