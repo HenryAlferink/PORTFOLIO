@@ -1,0 +1,22 @@
+{
+    "Parmigiano Reggiano": {
+        "age_years": 2.5,
+        "country": "Italy",
+        "hardness": 9
+    },
+    "Roquefort": {
+        "age_years": 0.4,
+        "country": "France",
+        "hardness": 7
+    },
+    "Manchego": {
+        "age_years": 1.25,
+        "country": "Spain",
+        "hardness": 6
+    },
+    "Cheddar": {
+        "age_years": 1.75,
+        "country": "United Kingdom",
+        "hardness": 8
+    }
+}
